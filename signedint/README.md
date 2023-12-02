@@ -17,7 +17,7 @@ Signed integers, just like unsigned integers, are stored in the computer as a bi
 >
 >> * Example: Two's complement of 10110 is 01010.
 
-Using the Two's complement we can represent signed integers using a n bits memory location ranging from $-2^\left( n-1 \rigth)$ to $2^\left( n-1 \rigth) - 1$. 
+Using the Two's complement we can represent signed integers using a n bits memory location ranging from $-2^[\left( n-1 \rigth)]$ to $2^\left( n-1 \rigth) - 1$. 
 
 * Example: 
 

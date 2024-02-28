@@ -1,0 +1,6 @@
+/Users/gabilio/documents/Foundations/Data/numericalconversor/build/CMakeFiles/numerical_conversor.dir
+/Users/gabilio/documents/Foundations/Data/numericalconversor/build/CMakeFiles/edit_cache.dir
+/Users/gabilio/documents/Foundations/Data/numericalconversor/build/CMakeFiles/rebuild_cache.dir
+/Users/gabilio/documents/Foundations/Data/numericalconversor/build/methods_/CMakeFiles/methods.dir
+/Users/gabilio/documents/Foundations/Data/numericalconversor/build/methods_/CMakeFiles/edit_cache.dir
+/Users/gabilio/documents/Foundations/Data/numericalconversor/build/methods_/CMakeFiles/rebuild_cache.dir

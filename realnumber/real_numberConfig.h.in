@@ -1,0 +1,2 @@
+#define real_number_VERSION_MAJOR @real_number_VERSION_MAJOR@
+#define real_number_VERSION_MINOR @real_number_VERSION_MINOR@

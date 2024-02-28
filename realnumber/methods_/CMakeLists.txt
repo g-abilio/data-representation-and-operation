@@ -1,0 +1,1 @@
+add_library(methods methods.cpp)

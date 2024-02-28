@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libmethods.a CMakeFiles/methods.dir/methods.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libmethods.a

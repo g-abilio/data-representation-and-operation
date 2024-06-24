@@ -6,7 +6,7 @@ Signed integers, just like unsigned integers, are stored in the computer as a bi
 > 
 > * First way:
 >
-> 1. Beginning on the left of the binary number, go through it until a 
+> 1. Beginning on the right of the binary number, go through it until a 
 > 1 bit is encountered.
 > 2. After that, flip all the bits that are on the left.
 > 
